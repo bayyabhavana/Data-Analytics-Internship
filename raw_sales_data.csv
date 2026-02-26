@@ -1,0 +1,7 @@
+Customer_ID,Customer_Name,Date_of_Birth,Gender,Product,Purchase_Amount,Purchase_Date
+C001,Ramesh ,1999-05-12,Male,Laptop,55000.0,01-01-2024
+C002,Sita,1992/08/20,F,Mobile,25000.0,2024/01/05
+C003,Arjun,1996-07-15,male,Tablet,15000.0,05-01-2024
+C003,Arjun,1996-07-15,male,Tablet,15000.0,05-01-2024
+C004,Priya,1985-09-10,Female,Laptop,62000.0,10-01-2024
+C005,Kiran,,M,Mobile,,2024-01-12
